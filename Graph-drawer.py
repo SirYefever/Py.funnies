@@ -1,5 +1,5 @@
 #requires a txt file with a structure:
-#*argument value* *funvction value*
+#*argument value* *function value*
 from matplotlib import pyplot as plt
 from operator import itemgetter
 
